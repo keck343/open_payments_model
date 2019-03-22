@@ -2,7 +2,7 @@
 
 Data : https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads.html
 
-Model the paper *Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework*
+Model the paper *Predicting Unethical Physician Behavior At Scale: A Distributed Computing Framework* (submitted for publication)
 
 Paper authors: Miguel Romero, Robert Sandor, Diane Myung-kyung Woodbridge, Paul Intrevado, and Anastasia Quinn Keck (me) as part of the Data Science Program at the University of San Francisco
 
